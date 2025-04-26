@@ -15,6 +15,7 @@
       <enclosure
           url="https://github.com/nebula-gg/nebula-macos/releases/download/v.1.4.0-alpha/Nebula-1.4.0.dmg"
           sparkle:version="1.4.0"
+          sparkle:edSignature="T4hIv/1wbUR8QEVYLtf31vaiSNP79ZCtBPA8z+g73FcwXP9tYYoAjMujQI00i8HiAY90DfE3IBJqkGhWfgP2Cw=="
           type="application/octet-stream" />
     </item>
   </channel>
