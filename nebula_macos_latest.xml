@@ -5,25 +5,25 @@
     <link>https://www.nebula.my/downloads</link>
     <description>Update feed for Nebula macOS</description>
 
-    <!-- Latest Version -->
     <item>
       <title>Nebula v1.4.8</title>
       <pubDate>Tue, 10 Jun 2025 12:00:00 GMT</pubDate>
       <sparkle:version>1.4.8</sparkle:version>
       <sparkle:minimumSystemVersion>12</sparkle:minimumSystemVersion>
-      <sparkle:description>
+      <sparkle:description><![CDATA[
         Nebula v1.4.8 introduces new features, bug fixes, and improvements.<br>
-          - Version jumped to v1.4.8 to match Nebula Windows (1.4.8)<br>
-          - Added Mods and Co-op support for games. Mods are new and we'll continue to develop and add new mods for games over time.<br>
-          - Fixed bugs with server connection and other minor bugs<br>
-          - Fixed UI bug with changing between Grid view and List view
-          - Nebula VPN is still not added in this update due to technical complications with Apple. We'll fix it and send it in the next update soon.
-      </sparkle:description>
+        - Version jumped to v1.4.8 to match Nebula Windows (1.4.8)<br>
+        - Added Mods and Co-op support for games. Mods are new and we'll continue to develop and add new mods for games over time.<br>
+        - Fixed bugs with server connection and other minor bugs<br>
+        - Fixed UI bug with changing between Grid view and List view<br>
+        - Nebula VPN is still not added in this update due to technical complications with Apple. We'll fix it and send it in the next update soon.
+      ]]></sparkle:description>
       <enclosure
         url="https://www.dropbox.com/scl/fi/f4dcttgc9rmgbnf98db4r/Nebula-1.4.8.dmg?rlkey=d05tmelbjrhwh06zcbgjl04wv&amp;dl=1"
-          sparkle:version="1.4.8"
-          sparkle:edSignature="pOmahfKVLTkHB5xbS56Vf07J6jzjhMs8gD8fJdrNZuQwzxxbHgZnxz1ckTqrC8kPoEj33Vw2JqoG/nrDyLiSAg=="
-          type="application/octet-stream" />
+        sparkle:version="1.4.8"
+        sparkle:edSignature="pOmahfKVLTkHB5xbS56Vf07J6jzjhMs8gD8fJdrNZuQwzxxbHgZnxz1ckTqrC8kPoEj33Vw2JqoG/nrDyLiSAg=="
+        type="application/octet-stream" />
     </item>
   </channel>
 </rss>
+
