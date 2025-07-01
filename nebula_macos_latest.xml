@@ -7,18 +7,18 @@
 
     <!-- Latest Version -->
     <item>
-      <title>Nebula v1.4.10</title>
-      <pubDate>Tue, 17 Jun 2025 12:00:00 GMT</pubDate>
-      <sparkle:version>1.4.10</sparkle:version>
+      <title>Nebula v1.4.11</title>
+      <pubDate>Tue, 1 July 2025 12:00:00 GMT</pubDate>
+      <sparkle:version>1.4.11</sparkle:version>
       <sparkle:minimumSystemVersion>12</sparkle:minimumSystemVersion>
       <sparkle:description>
-        Nebula v1.4.10 introduces new features, bug fixes, and improvements.<br />
-          - Fixed 'Manage CloudSaves' feature. You can now view, restore or delete your CloudSaves again.<br />
+        Nebula v1.4.11 introduces new features, bug fixes, and improvements.<br />
+          - Fixed minor streaming bugs and optimized stream stability<br />
       </sparkle:description>
       <enclosure
-        url="https://www.dropbox.com/scl/fi/i9vxaur9b9qsjri9j097o/Nebula-1.4.10.dmg?rlkey=oncz3le7zs373irghc5xnv5tr&amp;dl=1"
-          sparkle:version="1.4.10"
-          sparkle:edSignature="j04TVBDnP8ceIqkaiqdQg1hrJFgaT9x6ZkUM+/UeEzFRdRHzNtweXBOACufhwEsrhGSDngaZJF9l7WwrXBuTBw=="
+        url="https://www.dropbox.com/scl/fi/ow2r8efnl19x4ogul5mak/Nebula-1.4.11.dmg?rlkey=rx193mghkuaj7v323o5354onb&amp;dl=1"
+          sparkle:version="1.4.11"
+          sparkle:edSignature="j1UgEqgyKriAN6wms2VFocFojvchA3TjvZWyJySUQGxRVtFfOLJWC5W2hQftHBtfD1EtUR9ZICizDmZNzq66Aw=="
           type="application/octet-stream" />
     </item>
   </channel>
