@@ -7,18 +7,21 @@
 
     <!-- Latest Version -->
     <item>
-      <title>Nebula v1.4.11</title>
-      <pubDate>Tue, 1 July 2025 12:00:00 GMT</pubDate>
-      <sparkle:version>1.4.11</sparkle:version>
+      <title>Nebula v1.4.12</title>
+      <pubDate>Sun, 24 August 2025 10:30:00 MYT</pubDate>
+      <sparkle:version>1.4.12</sparkle:version>
       <sparkle:minimumSystemVersion>12</sparkle:minimumSystemVersion>
       <sparkle:description>
-        Nebula v1.4.11 introduces new features, bug fixes, and improvements.<br />
-          - Fixed minor streaming bugs and optimized stream stability<br />
+        Nebula v1.4.12 introduces new features, bug fixes, and improvements.<br />
+          - Added Password visibility toggle button at Login<br />
+          - Fixed Recently Played button in List View<br />
+          - Recently played games are now sorted by date instead of alphabetically<br />
+          - Search games now appear at top of List View<br />
       </sparkle:description>
       <enclosure
-        url="https://www.dropbox.com/scl/fi/ow2r8efnl19x4ogul5mak/Nebula-1.4.11.dmg?rlkey=rx193mghkuaj7v323o5354onb&amp;dl=1"
-          sparkle:version="1.4.11"
-          sparkle:edSignature="j1UgEqgyKriAN6wms2VFocFojvchA3TjvZWyJySUQGxRVtFfOLJWC5W2hQftHBtfD1EtUR9ZICizDmZNzq66Aw=="
+        url="https://www.dropbox.com/scl/fi/ftaj0109jb1e038u8rpgl/Nebula-1.4.12.dmg?rlkey=6z7xkgin4fiu57i8iwai2cegu&amp;dl=1"
+          sparkle:version="1.4.12"
+          sparkle:edSignature="zLgGGbElIugpRY/npfSwII/6yuq7uhafa8h61XZ/Mgu/OqebZT0ZCC1SyiqFIGEDfZqvFdlExkPb2vcWMwJECQ=="
           type="application/octet-stream" />
     </item>
   </channel>
