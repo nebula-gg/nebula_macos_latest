@@ -7,24 +7,19 @@
 
     <!-- Latest Version -->
     <item>
-      <title>Nebula v1.4.16</title>
-      <pubDate>Thu, 27 November 2025 16:30:00 MYT</pubDate>
-      <sparkle:version>1.4.16</sparkle:version>
+      <title>Nebula v1.4.17</title>
+      <pubDate>Sun, 1 March 2026 16:30:00 MYT</pubDate>
+      <sparkle:version>1.4.17</sparkle:version>
       <sparkle:minimumSystemVersion>12</sparkle:minimumSystemVersion>
       <sparkle:description>
-        Nebula v1.4.16 introduces new features, bug fixes, and improvements.<br />
-          - Fixed controller bug stopping game from starting<br />
-          - Added new 'Servers Available' tag on servers to know which games still has available servers which can be refreshed with 'Refresh' button<br />
-          - Added CloudSave size warnings to let you know when CloudSaves are too big and unstable<br />
-          - Fixed CloudSave limit bug<br />
-          - Fixed "Multiple Device detected" network bug and improved user in-game verification process<br />
-          - Fixed other minor UI and system bugs<br />
-          - Optimixed UI for listing CloudSave and revisions<br />
+        Nebula v1.4.17 introduces new features, bug fixes, and improvements.<br />
+          - Fixed bug that disconnects due to inactivity when only using keyboard<br />
+          - Added auto login feature, so you won't have to click Login button at every session<br />
       </sparkle:description>
       <enclosure
         url="https://www.dropbox.com/scl/fi/v7pc6xl7x2kuth4r5v8hx/Nebula-1.4.16.dmg?rlkey=lih8t2xx50w9foxp746aixn7i&amp;dl=1"
-          sparkle:version="1.4.16"
-          sparkle:edSignature="qizGXF9xVQwzZ7dXtlPMEjH2ADTO/vyid8JibSz/WMyfBGIfEXSIED4Y90diiD1mA8n8YWhPscc7uCga5VXiDw=="
+          sparkle:version="1.4.17"
+          sparkle:edSignature="MgaO2UFw3bD+yLGinOv6Gfjf0Lxy59XGfX001mKgP5LC5pZXIsHi+XhuutLuWyj48oazmyqmTbW2k3sEu0brDw=="
           type="application/octet-stream" />
     </item>
   </channel>
