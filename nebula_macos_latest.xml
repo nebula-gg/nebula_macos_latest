@@ -7,19 +7,18 @@
 
     <!-- Latest Version -->
     <item>
-      <title>Nebula v1.4.17</title>
-      <pubDate>Sun, 1 March 2026 16:30:00 MYT</pubDate>
-      <sparkle:version>1.4.17</sparkle:version>
+      <title>Nebula v1.4.18</title>
+      <pubDate>Sun, 5 March 2026 16:30:00 MYT</pubDate>
+      <sparkle:version>1.4.18</sparkle:version>
       <sparkle:minimumSystemVersion>12</sparkle:minimumSystemVersion>
       <sparkle:description>
-        Nebula v1.4.17 introduces new features, bug fixes, and improvements.<br />
-          - Fixed bug that disconnects due to inactivity when only using keyboard<br />
-          - Added auto login feature, so you won't have to click Login button at every session<br />
+        Nebula v1.4.18 introduces new features, bug fixes, and improvements.<br />
+          - Fixed login bug that causes UI to freeze.<br />
       </sparkle:description>
       <enclosure
-        url="https://www.dropbox.com/scl/fi/21t8d2uhqosntnkkd5y37/Nebula-1.4.17.dmg?rlkey=l6ach0e84uem5t3ixmtytr7ec&amp;dl=1"
-          sparkle:version="1.4.17"
-          sparkle:edSignature="MgaO2UFw3bD+yLGinOv6Gfjf0Lxy59XGfX001mKgP5LC5pZXIsHi+XhuutLuWyj48oazmyqmTbW2k3sEu0brDw=="
+        url="https://www.dropbox.com/scl/fi/ek2dsclgjn0iyciavumvh/Nebula-1.4.18.dmg?rlkey=uf7yy4238pukfv1lg4uqrvn4x&amp;dl=1"
+          sparkle:version="1.4.18"
+          sparkle:edSignature="BjTyBYrQs9YkODIXpFHqHX57/MAMi8JBeFP4eYpNC1wWjtR/2ZG6lo6rKRNjNSfXcC9BffIXCMWxbGTPURZ9AQ=="
           type="application/octet-stream" />
     </item>
   </channel>
