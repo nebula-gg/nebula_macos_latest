@@ -7,18 +7,21 @@
 
     <!-- Latest Version -->
     <item>
-      <title>Nebula v1.4.18</title>
-      <pubDate>Sun, 5 March 2026 16:30:00 MYT</pubDate>
-      <sparkle:version>1.4.18</sparkle:version>
+      <title>Nebula v1.4.19</title>
+      <pubDate>Fri, 10 April 2026 10:30:00 MYT</pubDate>
+      <sparkle:version>1.4.19</sparkle:version>
       <sparkle:minimumSystemVersion>12</sparkle:minimumSystemVersion>
       <sparkle:description>
-        Nebula v1.4.18 introduces new features, bug fixes, and improvements.<br />
-          - Fixed login bug that causes UI to freeze.<br />
+        Nebula v1.4.19 introduces new features, bug fixes, and improvements.<br />
+          - Added view for all subscriptions and their start and expiry<br />
+          - Improved UI transition smoothness between Grid and List View<br />
+          - Fixed bug for "Recently Played" games not showing / not responsive<br />
+          - Fixed bug for "Manage Subscriptions & Billing" button not responsive<br />
       </sparkle:description>
       <enclosure
-        url="https://www.dropbox.com/scl/fi/ek2dsclgjn0iyciavumvh/Nebula-1.4.18.dmg?rlkey=uf7yy4238pukfv1lg4uqrvn4x&amp;dl=1"
-          sparkle:version="1.4.18"
-          sparkle:edSignature="BjTyBYrQs9YkODIXpFHqHX57/MAMi8JBeFP4eYpNC1wWjtR/2ZG6lo6rKRNjNSfXcC9BffIXCMWxbGTPURZ9AQ=="
+        url="https://www.dropbox.com/scl/fi/n1ekuehhvhvwxkfnmecqs/Nebula-1.4.19.dmg?rlkey=w2zo0d744gm02jfukv8tgf9nx&amp;dl=1"
+          sparkle:version="1.4.19"
+          sparkle:edSignature="NA9dREEZLv0Im/Wclo3f2x9T57wxSfQUfEpYpTmDtSRG8J0xhk2b0nhY2dU55ihDFRDg1Gz+s09fGaDB4TpJBg=="
           type="application/octet-stream" />
     </item>
   </channel>
