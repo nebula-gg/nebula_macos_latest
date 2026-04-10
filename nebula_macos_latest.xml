@@ -8,18 +8,16 @@
     <!-- Latest Version -->
     <item>
       <title>Nebula v1.4.19</title>
-      <pubDate>Fri, 10 April 2026 10:30:00 MYT</pubDate>
+      <pubDate>Fri, 10 Apr 2026 16:30:00 +0800</pubDate>
       <sparkle:version>1.4.19</sparkle:version>
       <sparkle:minimumSystemVersion>12</sparkle:minimumSystemVersion>
-      <sparkle:description><![CDATA[
-          <p><strong>Nebula v1.4.19</strong> introduces new features, bug fixes, and improvements.</p>
-          <ul>
-              <li>Added view for all subscriptions and their start and expiry</li>
-              <li>Improved UI transition smoothness between Grid and List View</li>
-              <li>Fixed bug for "Recently Played" games not showing / not responsive</li>
-              <li>Fixed bug for "Manage Subscriptions & Billing" button not responsive</li>
-          </ul>
-      ]]></sparkle:description>
+      <sparkle:description>
+        Nebula v1.4.19 introduces new features, bug fixes, and improvements.<br />
+          - Added view for all subscriptions and their start and expiry<br />
+          - Improved UI transition smoothness between Grid and List View<br />
+          - Fixed bug for "Recently Played" games not showing / not responsive<br />
+          - Fixed bug for "Manage Subscriptions &amp; Billing" button not responsive<br />
+      </sparkle:description>
       <enclosure
         url="https://www.dropbox.com/scl/fi/n1ekuehhvhvwxkfnmecqs/Nebula-1.4.19.dmg?rlkey=w2zo0d744gm02jfukv8tgf9nx&amp;dl=1"
           sparkle:version="1.4.19"
