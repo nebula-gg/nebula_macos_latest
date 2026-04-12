@@ -7,21 +7,22 @@
 
     <!-- Latest Version -->
     <item>
-      <title>Nebula v1.4.19</title>
-      <pubDate>Fri, 10 Apr 2026 16:30:00 +0800</pubDate>
-      <sparkle:version>1.4.19</sparkle:version>
+      <title>Nebula v1.4.20</title>
+      <pubDate>Sun, 12 Apr 2026 16:30:00 +0800</pubDate>
+      <sparkle:version>1.4.20</sparkle:version>
       <sparkle:minimumSystemVersion>12</sparkle:minimumSystemVersion>
       <sparkle:description>
-        Nebula v1.4.19 introduces new features, bug fixes, and improvements.<br />
+        Nebula v1.4.20 introduces new features, bug fixes, and improvements.<br />
+          - Fixed app crashing when account has no subscriptions<br />
           - Added view for all subscriptions and their start and expiry<br />
           - Improved UI transition smoothness between Grid and List View<br />
           - Fixed bug for "Recently Played" games not showing / not responsive<br />
           - Fixed bug for "Manage Subscriptions &amp; Billing" button not responsive<br />
       </sparkle:description>
       <enclosure
-        url="https://www.dropbox.com/scl/fi/n1ekuehhvhvwxkfnmecqs/Nebula-1.4.19.dmg?rlkey=w2zo0d744gm02jfukv8tgf9nx&amp;dl=1"
-          sparkle:version="1.4.19"
-          sparkle:edSignature="NA9dREEZLv0Im/Wclo3f2x9T57wxSfQUfEpYpTmDtSRG8J0xhk2b0nhY2dU55ihDFRDg1Gz+s09fGaDB4TpJBg=="
+        url="https://www.dropbox.com/scl/fi/28soi2m15kikue4moonym/Nebula-1.4.20.dmg?rlkey=5q1r533qyxwfeebbcrvrk4kyh&amp;dl=1"
+          sparkle:version="1.4.20"
+          sparkle:edSignature="tWnTa3nRS+hb9Ru+2hMODX2qerzOASI3a4neFeZ7XvnbOaniwdCYWp82XtX2733tPhL48pm1pkAUpuIry5zvDA=="
           type="application/octet-stream" />
     </item>
   </channel>
