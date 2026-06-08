@@ -7,18 +7,18 @@
 
     <!-- Latest Version -->
     <item>
-      <title>Nebula v1.4.23</title>
+      <title>Nebula v1.4.24</title>
       <pubDate>Thu, 28 May 2026 16:30:00 +0800</pubDate>
-      <sparkle:version>1.4.23</sparkle:version>
+      <sparkle:version>1.4.24</sparkle:version>
       <sparkle:minimumSystemVersion>12</sparkle:minimumSystemVersion>
       <sparkle:description>
-        Nebula v1.4.23 introduces new features, bug fixes, and improvements.<br />
-          - Introduces Fair-use limits during peak hours<br />
+        Nebula v1.4.24 introduces new features, bug fixes, and improvements.<br />
+          - Security patch<br />
       </sparkle:description>
       <enclosure
-        url="https://www.dropbox.com/scl/fi/imkx4gyj3p3cxc8wj63yf/Nebula-1.4.23.dmg?rlkey=4tiazsbtkhc7dltvy76e6ip9h&amp;dl=1"
-          sparkle:version="1.4.23"
-          sparkle:edSignature="6rLQ5jkHFiboyAWwy+mJQVlstfsgg9leyG9h7RDP1gtZxp9Mwm0FDgZe0S/3OurQCX/dJJ5TkFEwkWUB0K1tAA=="
+        url="https://www.dropbox.com/scl/fi/07518xgradn2ai9whphnl/Nebula-1.4.24.dmg?rlkey=p2feb80h53667vq43grwyiyqz&amp;dl=1"
+          sparkle:version="1.4.24"
+          sparkle:edSignature="NQCK41JHyRRofQWw6tLn4hzu1g+Vg7ZtaKrky238oTG0A4Vo68rWB2IZnbPBwdYr/lPMJ0bjK7VNzydUJcw0Cg=="
           type="application/octet-stream" />
     </item>
   </channel>
