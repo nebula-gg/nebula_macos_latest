@@ -7,18 +7,18 @@
 
     <!-- Latest Version -->
     <item>
-      <title>Nebula v1.4.24</title>
+      <title>Nebula v1.4.25</title>
       <pubDate>Thu, 28 May 2026 16:30:00 +0800</pubDate>
-      <sparkle:version>1.4.24</sparkle:version>
+      <sparkle:version>1.4.25</sparkle:version>
       <sparkle:minimumSystemVersion>12</sparkle:minimumSystemVersion>
       <sparkle:description>
-        Nebula v1.4.24 introduces new features, bug fixes, and improvements.<br />
-          - Security patch<br />
+        Nebula v1.4.25 introduces new features, bug fixes, and improvements.<br />
+          - Patched 'Server Availability' bug that shows servers available even when it isn't<br />
       </sparkle:description>
       <enclosure
-        url="https://www.dropbox.com/scl/fi/07518xgradn2ai9whphnl/Nebula-1.4.24.dmg?rlkey=p2feb80h53667vq43grwyiyqz&amp;dl=1"
-          sparkle:version="1.4.24"
-          sparkle:edSignature="NQCK41JHyRRofQWw6tLn4hzu1g+Vg7ZtaKrky238oTG0A4Vo68rWB2IZnbPBwdYr/lPMJ0bjK7VNzydUJcw0Cg=="
+        url="https://www.dropbox.com/scl/fi/spjko1ikem6qmfpwgd5cw/Nebula-1.4.25.dmg?rlkey=ymbhhqqw968lcpxo8ntbslbme&amp;dl=1"
+          sparkle:version="1.4.25"
+          sparkle:edSignature="6k6qjH0WpmZMXR9MO1kI1+ErYmxQRl1rzYipQY8nSfzoKSD+b2It/vdhQZs8p6Sau9j3ryhsWHkhhxoIEOTqAg=="
           type="application/octet-stream" />
     </item>
   </channel>
