@@ -7,18 +7,18 @@
 
     <!-- Latest Version -->
     <item>
-      <title>Nebula v1.4.25</title>
-      <pubDate>Thu, 28 May 2026 16:30:00 +0800</pubDate>
-      <sparkle:version>1.4.25</sparkle:version>
+      <title>Nebula v1.4.26</title>
+      <pubDate>Mon, 29 Jun 2026 16:30:00 +0800</pubDate>
+      <sparkle:version>1.4.26</sparkle:version>
       <sparkle:minimumSystemVersion>12</sparkle:minimumSystemVersion>
       <sparkle:description>
-        Nebula v1.4.25 introduces new features, bug fixes, and improvements.<br />
-          - Patched 'Server Availability' bug that shows servers available even when it isn't<br />
+        Nebula v1.4.26 introduces new features, bug fixes, and improvements.<br />
+          - Added new queue system that allows you to queue automatically when selecting a game. Select your game and you'll be notified when a server is found.<br />
       </sparkle:description>
       <enclosure
-        url="https://www.dropbox.com/scl/fi/spjko1ikem6qmfpwgd5cw/Nebula-1.4.25.dmg?rlkey=ymbhhqqw968lcpxo8ntbslbme&amp;dl=1"
-          sparkle:version="1.4.25"
-          sparkle:edSignature="6k6qjH0WpmZMXR9MO1kI1+ErYmxQRl1rzYipQY8nSfzoKSD+b2It/vdhQZs8p6Sau9j3ryhsWHkhhxoIEOTqAg=="
+        url="https://www.dropbox.com/scl/fi/ky6bocoj6yyy38hhek8j5/Nebula-1.4.26.dmg?rlkey=fup5y6rdj0kyor5tbftz86883&amp;dl=1"
+          sparkle:version="1.4.26"
+          sparkle:edSignature="iPJkccalcFKBCGRN+s5II+tAnLvGs6iIpThDUxCiV9SpT6eGZLoy4QG1eMdgVDjbA+bBNcguoZsfH6BoVwqkDg=="
           type="application/octet-stream" />
     </item>
   </channel>
