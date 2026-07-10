@@ -7,18 +7,20 @@
 
     <!-- Latest Version -->
     <item>
-      <title>Nebula v1.4.26</title>
-      <pubDate>Mon, 29 Jun 2026 16:30:00 +0800</pubDate>
-      <sparkle:version>1.4.26</sparkle:version>
+      <title>Nebula v1.4.27</title>
+      <pubDate>Fri, 10 Jul 2026 13:30:00 +0800</pubDate>
+      <sparkle:version>1.4.27</sparkle:version>
       <sparkle:minimumSystemVersion>12</sparkle:minimumSystemVersion>
       <sparkle:description>
-        Nebula v1.4.26 introduces new features, bug fixes, and improvements.<br />
-          - Added new queue system that allows you to queue automatically when selecting a game. Select your game and you'll be notified when a server is found.<br />
+        Nebula v1.4.27 introduces new features, bug fixes, and improvements.<br />
+          - Fixed CloudSave restore<br />
+          - Fixed 'Servers Available' not showing<br />
+          - Added game genre filter chips in Grid view for easier exploration<br />
       </sparkle:description>
       <enclosure
-        url="https://www.dropbox.com/scl/fi/ky6bocoj6yyy38hhek8j5/Nebula-1.4.26.dmg?rlkey=fup5y6rdj0kyor5tbftz86883&amp;dl=1"
-          sparkle:version="1.4.26"
-          sparkle:edSignature="iPJkccalcFKBCGRN+s5II+tAnLvGs6iIpThDUxCiV9SpT6eGZLoy4QG1eMdgVDjbA+bBNcguoZsfH6BoVwqkDg=="
+        url="https://www.dropbox.com/scl/fi/h0x847asddh6th6mpdmzf/Nebula-1.4.27.dmg?rlkey=52k73fojrvrx6mdwy5ealo80j&amp;dl=1"
+          sparkle:version="1.4.27"
+          sparkle:edSignature="IoSMG3G+OeJhFmiUQhEv9EGizXyVf1XdJOsSjbezZHpkhdVxdYyphieznJRqSxQ0XETzJWN6798EUfpTkD6bCA=="
           type="application/octet-stream" />
     </item>
   </channel>
