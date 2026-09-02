@@ -7,19 +7,19 @@
 
     <!-- Latest Version -->
     <item>
-      <title>Nebula v1.5.0</title>
-      <pubDate>Mon, 20 Jul 2026 16:30:00 +0800</pubDate>
-      <sparkle:version>1.5.0</sparkle:version>
+      <title>Nebula v1.5.1</title>
+      <pubDate>Tue, 02 Sep 2026 08:30:00 +0800</pubDate>
+      <sparkle:version>1.5.1</sparkle:version>
       <sparkle:minimumSystemVersion>12</sparkle:minimumSystemVersion>
       <sparkle:description>
-        Nebula v1.5.0 introduces new features, bug fixes, and improvements.<br />
-          - Fixed CloudSave Delete<br />
-          - UI Refresh<br />
+        Nebula v1.5.1 introduces new features, bug fixes, and improvements.<br />
+          - Upgraded backend systems for stability and security<br />
+          - Fixed some minor bugs and crashes due to Hero Banner<br />
       </sparkle:description>
       <enclosure
-        url="https://www.dropbox.com/scl/fi/i1hrb0dnr4yu8oahzsglo/Nebula-1.5.0.dmg?rlkey=qj3erxnf28x224sds6uioamr9&amp;dl=1"
-          sparkle:version="1.5.0"
-          sparkle:edSignature="W9+SHGlMcE7coBuNonPXRQssBnL4mEqVJEu7TIDdHByARg4kHANNg4dyyt9ueABPCEs4z3sB5cYc/c41/PQ7BQ=="
+        url="https://www.dropbox.com/scl/fi/at7nep5npeztiyw3j75x4/Nebula-1.5.1.dmg?rlkey=x3lnyman1cbx9rkxpj1g9dg1p&amp;dl=1"
+          sparkle:version="1.5.1"
+          sparkle:edSignature="/XUjE3zo/sIlbuxkxALmAvmi4LGbvPgAVWqPLBjeBOZOCJktV1PG+F2fcQPn4mrbkMwq0GcK3FcxSqMXhZqICQ=="
           type="application/octet-stream" />
     </item>
   </channel>
