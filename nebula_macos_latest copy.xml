@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Nebula MacOS Updates</title>
+    <link>https://www.nebula.my/downloads</link>
+    <description>Update feed for Nebula macOS</description>
+
+    <!-- Latest Version -->
+    <item>
+      <title>Nebula v1.5.1</title>
+      <pubDate>Tue, 02 Sep 2026 08:30:00 +0800</pubDate>
+      <sparkle:version>1.5.1</sparkle:version>
+      <sparkle:minimumSystemVersion>12</sparkle:minimumSystemVersion>
+      <sparkle:description>
+        Nebula v1.5.1 introduces new features, bug fixes, and improvements.<br />
+          - Upgraded backend systems for stability and security<br />
+          - Fixed some minor bugs and crashes due to Hero Banner<br />
+      </sparkle:description>
+      <enclosure
+        url="https://www.dropbox.com/scl/fi/at7nep5npeztiyw3j75x4/Nebula-1.5.1.dmg?rlkey=x3lnyman1cbx9rkxpj1g9dg1p&amp;dl=1"
+          sparkle:version="1.5.1"
+          sparkle:edSignature="/XUjE3zo/sIlbuxkxALmAvmi4LGbvPgAVWqPLBjeBOZOCJktV1PG+F2fcQPn4mrbkMwq0GcK3FcxSqMXhZqICQ=="
+          type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
