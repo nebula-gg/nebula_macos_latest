@@ -7,20 +7,21 @@
 
     <!-- Latest Version -->
     <item>
-      <title>Nebula v1.5.2</title>
-      <pubDate>Tue, 29 Sep 2026 09:21:41 +0800</pubDate>
-      <sparkle:version>1.5.2</sparkle:version>
+      <title>Nebula v1.5.3</title>
+      <pubDate>Thu, 01 Oct 2026 14:38:17 +0800</pubDate>
+      <sparkle:version>1.5.3</sparkle:version>
       <sparkle:minimumSystemVersion>13</sparkle:minimumSystemVersion>
       <sparkle:description>
-        Nebula v1.5.2 introduces new features, bug fixes, and improvements.<br />
+        Nebula v1.5.3 introduces new features, bug fixes, and improvements.<br />
+          - Added VPN for MacOS<br />
           - Added AI Translate<br />
           - Added new languages to Nebula MacOS<br />
       </sparkle:description>
       <enclosure
-        url="https://www.dropbox.com/scl/fi/euqdgwmw900bsolvwq9mm/Nebula-1.5.2.dmg?rlkey=z2bu7r1yixq25dc8652a1rzav&amp;dl=1"
-          sparkle:version="1.5.2"
-          sparkle:edSignature="ZktS0Z+ytdrg138aHh6NenRI/fBJW2ZWOwQUtef811iqvirGbUfhvJpbCmTZhDyFmcoiTplqAcB3GRgfcjdEAw=="
-          length="77377364"
+        url="https://www.dropbox.com/scl/fi/cqkh2m9pm9lk3txyrvk7q/Nebula-1.5.3.dmg?rlkey=z2xc52iw5gwi4x77kppcablid&amp;dl=1"
+          sparkle:version="1.5.3"
+          sparkle:edSignature="/JmPAGagFbHwF8cnR552PNWgY2PLi4UY7vMwyjS938cNX/s3TLarPzL3mIsiewWVaprNGzALrUgAklhAgqIjCw=="
+          length="80179089"
           type="application/octet-stream" />
     </item>
   </channel>
